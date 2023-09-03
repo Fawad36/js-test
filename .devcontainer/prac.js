@@ -1,0 +1,1 @@
+console.log("fawad ali khan from madyan swat of barklay");
